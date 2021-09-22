@@ -2,7 +2,7 @@
 
 ![coming soon new spindle router](https://github.com/anthonygilbertt/Maker-Made-Maker300-3D-Printer/blob/Update-September-21-2021/Spindle.jpeg)
 
-M2 Spindle
+
 
 COMING SOON! 
 
