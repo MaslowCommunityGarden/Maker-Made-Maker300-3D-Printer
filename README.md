@@ -1,8 +1,22 @@
-# Maker Made Maker300 3D Printer
+# M2 Spindle
 
-Maker Made Maker300 3D Printer
+![coming soon new spindle router](https://github.com/anthonygilbertt/Maker-Made-Maker300-3D-Printer/blob/Update-September-21-2021/Spindle.jpeg)
 
-The Maker300 is an in-house design, the result of years of experience from our team in 3D printing. We realized that a simpler, better-printing, more user-friendly option was within reach. Months of component research, scouring consumer feedback, and design testing have resulted in the entirely new product you see here. Simultaneously familiar and revolutionary in design, the Maker300 from MakerMade will become an integral companion to any maker!
+M2 Spindle
 
-[More information available here!](https://www.makermadecnc.com/product/the-makermade-3d-printer-mm300/)
+COMING SOON! 
+
+
+  
+
+MakerMade will soon be launching our custom spindle router specifically for use with the M2!
+
+  
+
+[Sign up for our newsletter](https://manage.kmail-lists.com/subscriptions/subscribe?a=V4R5GL&g=RiFhGe) to get notified when it launches!
+
+Visit [MakerMade](https://makermade.com/) to see what else we have to offer.
+
+
+
 
