@@ -1,6 +1,6 @@
 # M2 Spindle
 
-![coming soon new spindle router](https://github.com/anthonygilbertt/Maker-Made-Maker300-3D-Printer/blob/Update-September-21-2021/Spindle.jpeg)
+![coming soon new spindle router](https://github.com/MaslowCommunityGarden/Maker-Made-Maker300-3D-Printer/blob/master/Spindle.jpeg)
 
 
 
